@@ -1,0 +1,7 @@
+{
+  "dashboard.title": "Tableau de bord",
+  "dashboard.welcome": "Bon retour, {userName}",
+  "dashboard.subtitle": "Vue d'ensemble de votre compte",
+  "dashboard.kpi.revenue": "Revenus",
+  "dashboard.kpi.orders": "Commandes"
+}

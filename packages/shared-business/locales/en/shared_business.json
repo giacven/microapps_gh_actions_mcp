@@ -1,0 +1,18 @@
+{
+  "shared_business.status.pending": "Pending",
+  "shared_business.status.processing": "Processing",
+  "shared_business.status.shipped": "Shipped",
+  "shared_business.status.delivered": "Delivered",
+  "shared_business.status.cancelled": "Cancelled",
+  "shared_business.price.label": "Price",
+  "shared_business.price.total": "Total: {amount}",
+  "shared_business.price.subtotal": "Subtotal: {amount}",
+  "shared_business.price.tax": "Tax: {amount}",
+  "shared_business.price.discount": "Discount: -{amount}",
+  "shared_business.order.id": "Order #{orderId}",
+  "shared_business.order.date": "Placed on {date}",
+  "shared_business.order.items": "{count, plural, one {# item} other {# items}}",
+  "shared_business.currency.eur": "EUR",
+  "shared_business.currency.usd": "USD",
+  "shared_business.refund.policy": "Refunds within {days} days"
+}

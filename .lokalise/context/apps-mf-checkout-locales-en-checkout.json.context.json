@@ -1,0 +1,96 @@
+{
+  "checkout.title": {
+    "description": "Micro-frontend string for checkout.title. Source: Checkout"
+  },
+  "checkout.subtitle": {
+    "description": "Micro-frontend string for checkout.subtitle. Source: Review your order before paying"
+  },
+  "checkout.greeting": {
+    "description": "Micro-frontend string for checkout.greeting. Source: Hello, {userName}"
+  },
+  "checkout.cart.title": {
+    "description": "Micro-frontend string for checkout.cart.title. Source: Your cart"
+  },
+  "checkout.cart.empty": {
+    "description": "Micro-frontend string for checkout.cart.empty. Source: Your cart is empty"
+  },
+  "checkout.items_count": {
+    "description": "Micro-frontend string for checkout.items_count. Source: {count, plural, one {# item} other {# items}}"
+  },
+  "checkout.item.name": {
+    "description": "Micro-frontend string for checkout.item.name. Source: Product {index}"
+  },
+  "checkout.item.quantity": {
+    "description": "Micro-frontend string for checkout.item.quantity. Source: Qty: {quantity}"
+  },
+  "checkout.item.remove": {
+    "description": "Micro-frontend string for checkout.item.remove. Source: Remove item"
+  },
+  "checkout.shipping.title": {
+    "description": "Micro-frontend string for checkout.shipping.title. Source: Shipping"
+  },
+  "checkout.shipping.standard": {
+    "description": "Micro-frontend string for checkout.shipping.standard. Source: Standard (3–5 days)"
+  },
+  "checkout.shipping.express": {
+    "description": "Micro-frontend string for checkout.shipping.express. Source: Express (1–2 days)"
+  },
+  "checkout.shipping.free_over": {
+    "description": "Micro-frontend string for checkout.shipping.free_over. Source: Free shipping over {amount}"
+  },
+  "checkout.payment.title": {
+    "description": "Micro-frontend string for checkout.payment.title. Source: Payment"
+  },
+  "checkout.payment.card": {
+    "description": "Micro-frontend string for checkout.payment.card. Source: Credit card"
+  },
+  "checkout.payment.paypal": {
+    "description": "Micro-frontend string for checkout.payment.paypal. Source: PayPal"
+  },
+  "checkout.summary.subtotal": {
+    "description": "Micro-frontend string for checkout.summary.subtotal. Source: Subtotal"
+  },
+  "checkout.summary.shipping": {
+    "description": "Micro-frontend string for checkout.summary.shipping. Source: Shipping"
+  },
+  "checkout.summary.tax": {
+    "description": "Micro-frontend string for checkout.summary.tax. Source: Tax"
+  },
+  "checkout.summary.total": {
+    "description": "Micro-frontend string for checkout.summary.total. Source: Total: {total}"
+  },
+  "checkout.discount.applied": {
+    "description": "Micro-frontend string for checkout.discount.applied. Source: Discount code {code} applied (-{amount})"
+  },
+  "checkout.terms_rich": {
+    "description": "Micro-frontend string for checkout.terms_rich. Source: I agree to the <link>terms of service</link> and <code>API v2</code> billing pol…"
+  },
+  "checkout.place_order": {
+    "description": "Micro-frontend string for checkout.place_order. Source: Place order"
+  },
+  "checkout.processing": {
+    "description": "Micro-frontend string for checkout.processing. Source: Processing payment…"
+  },
+  "checkout.success.title": {
+    "description": "Micro-frontend string for checkout.success.title. Source: Order confirmed"
+  },
+  "checkout.success.message": {
+    "description": "Micro-frontend string for checkout.success.message. Source: Thank you! Order #{orderId} will ship soon."
+  },
+  "checkout.error.payment": {
+    "description": "Micro-frontend string for checkout.error.payment. Source: Payment failed. Please try again."
+  },
+  "checkout.error.inventory": {
+    "description": "Micro-frontend string for checkout.error.inventory. Source: Only {available} left in stock"
+  },
+  "checkout.secure_notice": {
+    "description": "Micro-frontend string for checkout.secure_notice. Source: Secure checkout powered by {provider}"
+  },
+  "checkout.guest_prompt": {
+    "description": "Micro-frontend string for checkout.guest_prompt. Source: Checking out as guest? <link>Sign in</link> for faster checkout"
+  },
+  "checkout.lokalise.badge": {
+    "description": "Micro-frontend string for checkout.lokalise.badge. Source: Lokalise-connected MF",
+    "characterLimit": 40
+  }
+}

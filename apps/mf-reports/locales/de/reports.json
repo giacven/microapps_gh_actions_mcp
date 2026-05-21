@@ -1,0 +1,22 @@
+{
+  "reports.title": "Berichte",
+  "reports.subtitle": "Analysen und Exporte (lokale Übersetzungen)",
+  "reports.tab.overview": "Übersicht",
+  "reports.tab.sales": "Umsatz",
+  "reports.tab.inventory": "Bestand",
+  "reports.generate": "Bericht erstellen",
+  "reports.download": "CSV herunterladen",
+  "reports.schedule": "Bericht planen",
+  "reports.frequency.daily": "Täglich",
+  "reports.frequency.weekly": "Wöchentlich",
+  "reports.frequency.monthly": "Monatlich",
+  "reports.date_range": "Zeitraum: {startDate} – {endDate}",
+  "reports.rows_count": "{count, plural, one {# Zeile} other {# Zeilen}}",
+  "reports.empty": "Noch keine Berichte",
+  "reports.loading": "Berichte werden geladen…",
+  "reports.error": "Berichte konnten nicht geladen werden",
+  "reports.filter.status": "Status",
+  "reports.filter.region": "Region",
+  "reports.export.success": "Export gestartet",
+  "reports.local.badge": "Nur lokales MF (nicht in Lokalise)"
+}

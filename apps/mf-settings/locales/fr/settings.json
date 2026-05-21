@@ -1,0 +1,4 @@
+{
+  "settings.title": "Paramètres",
+  "settings.api_key_hint": "Utilisez l'en-tête `Authorization: Bearer {keyName}` pour l'API v2"
+}

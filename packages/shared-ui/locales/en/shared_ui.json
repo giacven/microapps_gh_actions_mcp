@@ -1,0 +1,17 @@
+{
+  "shared_ui.badge.new": "New",
+  "shared_ui.badge.beta": "Beta",
+  "shared_ui.badge.sale": "Sale",
+  "shared_ui.button.save": "Save",
+  "shared_ui.button.cancel": "Cancel",
+  "shared_ui.button.confirm": "Confirm",
+  "shared_ui.button.delete": "Delete",
+  "shared_ui.button.edit": "Edit",
+  "shared_ui.loading": "Loading…",
+  "shared_ui.error.generic": "Something went wrong",
+  "shared_ui.empty_state": "No items to display",
+  "shared_ui.pagination.prev": "Previous",
+  "shared_ui.pagination.next": "Next",
+  "shared_ui.pagination.page": "Page {page} of {total}",
+  "shared_ui.search.placeholder": "Search…"
+}

@@ -1,0 +1,6 @@
+{
+  "checkout.title": "Paiement",
+  "checkout.greeting": "Bonjour, {userName}",
+  "checkout.items_count": "{count, plural, one {# article} other {# articles}}",
+  "checkout.terms_rich": "J'accepte les <link>conditions</link> et la politique <code>API v2</code>"
+}

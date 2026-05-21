@@ -1,0 +1,81 @@
+{
+  "dashboard.title": {
+    "description": "Micro-frontend string for dashboard.title. Source: Dashboard"
+  },
+  "dashboard.welcome": {
+    "description": "Micro-frontend string for dashboard.welcome. Source: Welcome back, {userName}"
+  },
+  "dashboard.subtitle": {
+    "description": "Micro-frontend string for dashboard.subtitle. Source: Overview of your account"
+  },
+  "dashboard.kpi.revenue": {
+    "description": "Micro-frontend string for dashboard.kpi.revenue. Source: Revenue"
+  },
+  "dashboard.kpi.orders": {
+    "description": "Micro-frontend string for dashboard.kpi.orders. Source: Orders"
+  },
+  "dashboard.kpi.customers": {
+    "description": "Micro-frontend string for dashboard.kpi.customers. Source: Customers"
+  },
+  "dashboard.kpi.conversion": {
+    "description": "Micro-frontend string for dashboard.kpi.conversion. Source: Conversion rate"
+  },
+  "dashboard.period.today": {
+    "description": "Micro-frontend string for dashboard.period.today. Source: Today"
+  },
+  "dashboard.period.week": {
+    "description": "Micro-frontend string for dashboard.period.week. Source: This week"
+  },
+  "dashboard.period.month": {
+    "description": "Micro-frontend string for dashboard.period.month. Source: This month"
+  },
+  "dashboard.period.custom": {
+    "description": "Micro-frontend string for dashboard.period.custom. Source: Custom range"
+  },
+  "dashboard.date_range": {
+    "description": "Micro-frontend string for dashboard.date_range. Source: From {startDate} to {endDate}"
+  },
+  "dashboard.chart.title": {
+    "description": "Micro-frontend string for dashboard.chart.title. Source: Sales trend"
+  },
+  "dashboard.chart.empty": {
+    "description": "Micro-frontend string for dashboard.chart.empty. Source: No data for this period"
+  },
+  "dashboard.activity.title": {
+    "description": "Micro-frontend string for dashboard.activity.title. Source: Recent activity"
+  },
+  "dashboard.activity.items": {
+    "description": "Micro-frontend string for dashboard.activity.items. Source: {count, plural, one {# event} other {# events}}"
+  },
+  "dashboard.activity.view_all": {
+    "description": "Micro-frontend string for dashboard.activity.view_all. Source: View all activity"
+  },
+  "dashboard.export": {
+    "description": "Micro-frontend string for dashboard.export. Source: Export report"
+  },
+  "dashboard.refresh": {
+    "description": "Micro-frontend string for dashboard.refresh. Source: Refresh data"
+  },
+  "dashboard.last_updated": {
+    "description": "Micro-frontend string for dashboard.last_updated. Source: Last updated: {timestamp}"
+  },
+  "dashboard.alert.performance": {
+    "description": "Micro-frontend string for dashboard.alert.performance. Source: Performance is {percent}% above average"
+  },
+  "dashboard.team.members": {
+    "description": "Micro-frontend string for dashboard.team.members. Source: {count, plural, one {# team member} other {# team members}}"
+  },
+  "dashboard.filter.apply": {
+    "description": "Micro-frontend string for dashboard.filter.apply. Source: Apply filters"
+  },
+  "dashboard.filter.reset": {
+    "description": "Micro-frontend string for dashboard.filter.reset. Source: Reset filters"
+  },
+  "dashboard.help": {
+    "description": "Micro-frontend string for dashboard.help. Source: Need help? See the <link>documentation</link>"
+  },
+  "dashboard.lokalise.badge": {
+    "description": "Micro-frontend string for dashboard.lokalise.badge. Source: Lokalise-connected MF",
+    "characterLimit": 40
+  }
+}

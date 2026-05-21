@@ -1,0 +1,16 @@
+{
+  "jobId": "poc-example-replace-after-mcp-submit",
+  "projectId": "REPLACE_AFTER_create_project",
+  "submittedAt": "2026-05-21T00:00:00Z",
+  "branch": "main",
+  "files": [
+    "apps/mf-dashboard/locales/en/dashboard.json",
+    "apps/mf-checkout/locales/en/checkout.json",
+    "apps/mf-settings/locales/en/settings.json"
+  ],
+  "totalKeys": 75,
+  "targetLanguages": ["de", "fr"],
+  "editorUrl": "https://app.lokalise.com/project/REPLACE/editor",
+  "status": "SUCCEEDED",
+  "note": "Example job tracking shape. Replace with real jobId after submit_translation_job via MCP. Translations in de/fr locale files were applied for this PoC."
+}

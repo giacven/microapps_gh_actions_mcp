@@ -1,0 +1,22 @@
+{
+  "reports.title": "Rapports",
+  "reports.subtitle": "Analyses et exports (traductions locales)",
+  "reports.tab.overview": "Vue d'ensemble",
+  "reports.tab.sales": "Ventes",
+  "reports.tab.inventory": "Stock",
+  "reports.generate": "Générer un rapport",
+  "reports.download": "Télécharger CSV",
+  "reports.schedule": "Planifier un rapport",
+  "reports.frequency.daily": "Quotidien",
+  "reports.frequency.weekly": "Hebdomadaire",
+  "reports.frequency.monthly": "Mensuel",
+  "reports.date_range": "Période : {startDate} – {endDate}",
+  "reports.rows_count": "{count, plural, one {# ligne} other {# lignes}}",
+  "reports.empty": "Aucun rapport pour l'instant",
+  "reports.loading": "Chargement des rapports…",
+  "reports.error": "Échec du chargement des rapports",
+  "reports.filter.status": "Statut",
+  "reports.filter.region": "Région",
+  "reports.export.success": "Export lancé",
+  "reports.local.badge": "MF local uniquement (hors Lokalise)"
+}

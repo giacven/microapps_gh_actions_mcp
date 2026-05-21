@@ -1,0 +1,23 @@
+{
+  "notifications.title": "Notifications",
+  "notifications.subtitle": "Alertes et messages (traductions locales)",
+  "notifications.mark_all_read": "Tout marquer comme lu",
+  "notifications.clear_all": "Tout effacer",
+  "notifications.empty": "Aucune notification",
+  "notifications.unread_count": "{count, plural, one {# non lue} other {# non lues}}",
+  "notifications.toast.order_shipped": "La commande #{orderId} a été expédiée",
+  "notifications.toast.payment_received": "Paiement de {amount} reçu",
+  "notifications.toast.item_back_in_stock": "{productName} est de nouveau en stock",
+  "notifications.toast.promo": "Promo : {percent}% de réduction jusqu'au {endDate}",
+  "notifications.filter.all": "Toutes",
+  "notifications.filter.orders": "Commandes",
+  "notifications.filter.system": "Système",
+  "notifications.settings.link": "Paramètres des notifications",
+  "notifications.time.just_now": "À l'instant",
+  "notifications.time.minutes_ago": "il y a {minutes, plural, one {# minute} other {# minutes}}",
+  "notifications.time.hours_ago": "il y a {hours, plural, one {# heure} other {# heures}}",
+  "notifications.permission.request": "Activer les notifications pour les commandes",
+  "notifications.permission.granted": "Notifications activées",
+  "notifications.permission.denied": "Notifications bloquées",
+  "notifications.local.badge": "MF local uniquement (hors Lokalise)"
+}

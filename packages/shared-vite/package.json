@@ -1,0 +1,12 @@
+{
+  "name": "@tadaweb/shared-vite",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./index.js",
+  "dependencies": {
+    "@module-federation/vite": "^1.2.7",
+    "@vitejs/plugin-react": "^4.3.3",
+    "vite": "^6.0.1"
+  }
+}

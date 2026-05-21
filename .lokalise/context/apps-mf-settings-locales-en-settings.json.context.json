@@ -1,0 +1,87 @@
+{
+  "settings.title": {
+    "description": "Micro-frontend string for settings.title. Source: Settings"
+  },
+  "settings.subtitle": {
+    "description": "Micro-frontend string for settings.subtitle. Source: Manage your account preferences"
+  },
+  "settings.profile.title": {
+    "description": "Micro-frontend string for settings.profile.title. Source: Profile"
+  },
+  "settings.profile.name": {
+    "description": "Micro-frontend string for settings.profile.name. Source: Display name"
+  },
+  "settings.profile.email": {
+    "description": "Micro-frontend string for settings.profile.email. Source: Email address"
+  },
+  "settings.profile.avatar": {
+    "description": "Micro-frontend string for settings.profile.avatar. Source: Profile photo"
+  },
+  "settings.profile.save": {
+    "description": "Micro-frontend string for settings.profile.save. Source: Save profile"
+  },
+  "settings.security.title": {
+    "description": "Micro-frontend string for settings.security.title. Source: Security"
+  },
+  "settings.security.password": {
+    "description": "Micro-frontend string for settings.security.password. Source: Password"
+  },
+  "settings.security.two_factor": {
+    "description": "Micro-frontend string for settings.security.two_factor. Source: Two-factor authentication"
+  },
+  "settings.security.sessions": {
+    "description": "Micro-frontend string for settings.security.sessions. Source: Active sessions"
+  },
+  "settings.notifications.title": {
+    "description": "Micro-frontend string for settings.notifications.title. Source: Notifications"
+  },
+  "settings.notifications.email": {
+    "description": "Micro-frontend string for settings.notifications.email. Source: Email notifications"
+  },
+  "settings.notifications.push": {
+    "description": "Micro-frontend string for settings.notifications.push. Source: Push notifications"
+  },
+  "settings.notifications.sms": {
+    "description": "Micro-frontend string for settings.notifications.sms. Source: SMS alerts"
+  },
+  "settings.api.title": {
+    "description": "Micro-frontend string for settings.api.title. Source: API access"
+  },
+  "settings.api_key_hint": {
+    "description": "Micro-frontend string for settings.api_key_hint. Source: Use header `Authorization: Bearer {keyName}` for API v2 requests"
+  },
+  "settings.api.generate": {
+    "description": "Micro-frontend string for settings.api.generate. Source: Generate new key"
+  },
+  "settings.api.revoke": {
+    "description": "Micro-frontend string for settings.api.revoke. Source: Revoke key"
+  },
+  "settings.language.title": {
+    "description": "Micro-frontend string for settings.language.title. Source: Language"
+  },
+  "settings.language.description": {
+    "description": "Micro-frontend string for settings.language.description. Source: App language is controlled by the shell"
+  },
+  "settings.privacy.title": {
+    "description": "Micro-frontend string for settings.privacy.title. Source: Privacy"
+  },
+  "settings.privacy.export": {
+    "description": "Micro-frontend string for settings.privacy.export. Source: Export my data"
+  },
+  "settings.privacy.delete": {
+    "description": "Micro-frontend string for settings.privacy.delete. Source: Delete account"
+  },
+  "settings.danger_zone": {
+    "description": "Micro-frontend string for settings.danger_zone. Source: Danger zone"
+  },
+  "settings.confirm_delete": {
+    "description": "Micro-frontend string for settings.confirm_delete. Source: Type {confirmWord} to confirm deletion"
+  },
+  "settings.saved": {
+    "description": "Micro-frontend string for settings.saved. Source: Settings saved successfully"
+  },
+  "settings.lokalise.badge": {
+    "description": "Micro-frontend string for settings.lokalise.badge. Source: Lokalise-connected MF",
+    "characterLimit": 40
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "shared_ui.badge.new": "Neu",
+  "shared_ui.badge.beta": "Beta",
+  "shared_ui.badge.sale": "Angebot",
+  "shared_ui.button.save": "Speichern",
+  "shared_ui.button.cancel": "Abbrechen",
+  "shared_ui.button.confirm": "Bestätigen",
+  "shared_ui.button.delete": "Löschen",
+  "shared_ui.button.edit": "Bearbeiten",
+  "shared_ui.loading": "Wird geladen…",
+  "shared_ui.error.generic": "Etwas ist schiefgelaufen",
+  "shared_ui.empty_state": "Keine Einträge",
+  "shared_ui.pagination.prev": "Zurück",
+  "shared_ui.pagination.next": "Weiter",
+  "shared_ui.pagination.page": "Seite {page} von {total}",
+  "shared_ui.search.placeholder": "Suchen…"
+}

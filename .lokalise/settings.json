@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "projectId": "REPLACE_AFTER_create_project",
+  "name": "TadaWeb MF Translation PoC",
+  "workspaceId": "REPLACE_AFTER_create_project",
+  "mainBranch": "main",
+  "bootstrapBranch": "main",
+  "framework": "react",
+  "l10nLibrary": "react-intl",
+  "extractionStrategy": "flat-json-per-mf",
+  "languages": {
+    "en": { "uuid": "REPLACE", "name": "English", "isBase": true },
+    "de": { "uuid": "REPLACE", "name": "German" },
+    "fr": { "uuid": "REPLACE", "name": "French" }
+  }
+}

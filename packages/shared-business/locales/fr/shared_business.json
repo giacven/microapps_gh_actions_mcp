@@ -1,0 +1,18 @@
+{
+  "shared_business.status.pending": "En attente",
+  "shared_business.status.processing": "En cours",
+  "shared_business.status.shipped": "Expédiée",
+  "shared_business.status.delivered": "Livrée",
+  "shared_business.status.cancelled": "Annulée",
+  "shared_business.price.label": "Prix",
+  "shared_business.price.total": "Total : {amount}",
+  "shared_business.price.subtotal": "Sous-total : {amount}",
+  "shared_business.price.tax": "TVA : {amount}",
+  "shared_business.price.discount": "Remise : -{amount}",
+  "shared_business.order.id": "Commande n°{orderId}",
+  "shared_business.order.date": "Passée le {date}",
+  "shared_business.order.items": "{count, plural, one {# article} other {# articles}}",
+  "shared_business.currency.eur": "EUR",
+  "shared_business.currency.usd": "USD",
+  "shared_business.refund.policy": "Remboursement sous {days} jours"
+}
